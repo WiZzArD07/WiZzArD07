@@ -158,7 +158,7 @@ My journey combines **technical excellence** with **continuous learning** - from
   <table>
     <tr>
       <td align="center">
-        <a href="www.linkedin.com/in/aryan-jaiswal07" target="_blank">
+        <a href="https://www.linkedin.com/in/aryan-jaiswal07/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
@@ -175,8 +175,9 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 | Platform | Link | Status |
 |----------|------|--------|
-| **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active |
-| **GitHub** | [github.com/itsashish1](https://github.com/itsashish1) | ✅ Active |
+| **LinkedIn** | [linkedin.com/in/Aryan Jaiswal](https://www.linkedin.com/in/aryan-jaiswal07/) | ✅ Active |
+| **GitHub** | [github.com/Aryan Jaiswal](https://github.com/WiZzArD07) | ✅ Active |
+| **Email** | arujaiswal12@gmail.com | ✅ Active |
 
 ---
 
@@ -190,6 +191,6 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=itsashish1&color=58a6ff&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=WiZzArD07&color=58a6ff&style=flat-square)
 
 </div>
