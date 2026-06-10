@@ -102,10 +102,18 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 | # | Project | Tech Stack | Status | Demo |
 |---|---------|-----------|--------|------|
-| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/itsashish1) |
-| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/itsashish1/) |
+| 1 | **URL Shortner** | Node.js, Express, Redis, MySQL, Docker | ✅ Live | [🔗 View](https://github.com/WiZzArD07/url_shortner) |
+| 2 | **AI-Based Recycling Waste Classification System** | Python, TensorFlow, NumPy, Pandas | ✅ Live | [🔗 View](https://github.com/WiZzArD07/AI-Recycling-Waste-Classification) |
+| 3 | **Aniverse** | Node.js, Express.js, Postgres, REST APIs, TypeScript | 🚧 Building | [🔗 View](https://github.com/WiZzArD07/aniverse) |
+| 4 | **DSA Ppractice** | Java, Python | ✅ Active | [🔗 LeetCode](https://github.com/WiZzArD07/Java-Prac) |
+| 6 | **F1** | Machine Learning, Python, Numpy, Matplotlib | ✅ Live | [🔗 View](https://github.com/WiZzArD07/F1) |
+| 7 | **Dashboard** | Next.js, Recharts, Node.js, Express.js, PostgreSQL, Prisma | 🚧 Building  | [🔗 View](https://github.com/WiZzArD07/dashboard) |
+| 8 | **Intelligent Image Processing** | Python, Flask, OpenCV, NumPy, Matplotlib, REST API | ✅ Live | [🔗 View](https://github.com/WiZzArD07/Intelligent-Image-Processing) |
+| 9 | **Devops ci cd project** | Git, GitHub, GitHub Actions, Docker, Bash, YAML. | ✅ Live | [🔗 View](https://github.com/WiZzArD07/devops-ci-cd-project) |
+| 10 | **Research Paper** | Semantic Jailbreaks in LLMs & VLMs | ✅ Live | [🔗 View]([https://github.com/itsashish1](https://www.linkedin.com/in/aryan-jaiswal07/overlay/1780419948509/single-media-viewer/?profileId=ACoAAESvLCIBaSebCpbTvB5mnsj4ONO9DXmi7g0)) |
+
+
+
 
 ### 🔗 Featured Repositories
 
