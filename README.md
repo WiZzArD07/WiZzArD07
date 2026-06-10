@@ -25,13 +25,15 @@
 ## 🙋‍♂️ About Me
 
 ```text
-👨‍💻 Software Developer | B.Tech CSE @ K.R. Mangalam University
-📍 Gurugram, India
-🎯 Passionate about Full Stack Development & Problem Solving
+👨‍💻 Software Developer | B.Tech CSE (AI & ML) @ BBDITM
+📍 Lucknow, India
+🎯 Passionate about Machine Learning, Backend Development & Devops
 📚 Lifelong Learner | Open Source Enthusiast
 ```
 
-I'm a passionate **Software Developer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
+I'm a passionate Software Developer, Machine Learning Engineer, and DevOps Enthusiast specializing in building scalable web applications, developing intelligent AI-driven solutions, and automating modern cloud infrastructure.
+
+With hands-on experience in full-stack development, machine learning, deep learning, CI/CD pipelines, containerization, and cloud technologies, I thrive on transforming innovative ideas into efficient, reliable, and production-ready solutions
 
 My journey combines **technical excellence** with **continuous learning** - from crafting elegant code to exploring cutting-edge technologies. I believe in writing clean, maintainable code and contributing to the developer community.
 
