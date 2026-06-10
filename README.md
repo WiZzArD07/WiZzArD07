@@ -47,7 +47,6 @@ My journey combines **technical excellence** with **continuous learning** - from
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </div>
 
@@ -56,8 +55,6 @@ My journey combines **technical excellence** with **continuous learning** - from
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
@@ -85,17 +82,17 @@ My journey combines **technical excellence** with **continuous learning** - from
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=itsashish1&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsashish1&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=WiZzArD07&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=WiZzArD07&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsashish1&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
+      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiZzArD07&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsashish1&theme=algolia" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WiZzArD07&theme=algolia" alt="Profile Summary" />
 </div>
 
 ---
@@ -109,8 +106,8 @@ My journey combines **technical excellence** with **continuous learning** - from
 | 3 | **Aniverse** | Node.js, Express.js, Postgres, REST APIs, TypeScript | 🚧 Building | [🔗 View](https://github.com/WiZzArD07/aniverse) |
 | 4 | **DSA Ppractice** | Java, Python | ✅ Active | [🔗 LeetCode](https://github.com/WiZzArD07/Java-Prac) |
 | 6 | **F1** | Machine Learning, Python, Numpy, Matplotlib | ✅ Live | [🔗 View](https://github.com/WiZzArD07/F1) |
-| 7 | **Dashboard** | Next.js, Recharts, Node.js, Express.js, PostgreSQL, Prisma | 🚧 Building  | [🔗 View](https://github.com/WiZzArD07/dashboard) |
-| 8 | **Intelligent Image Processing** | Python, Flask, OpenCV, NumPy, Matplotlib, REST API | ✅ Live | [🔗 View](https://github.com/WiZzArD07/Intelligent-Image-Processing) |
+| 7 | **Dashboard** | Next.js, Recharts, Express.js, PostgreSQL, Prisma | 🚧 Building  | [🔗 View](https://github.com/WiZzArD07/dashboard) |
+| 8 | **Intelligent Image Processing** | Python, Flask, NumPy, Matplotlib, REST API | ✅ Live | [🔗 View](https://github.com/WiZzArD07/Intelligent-Image-Processing) |
 | 9 | **Devops ci cd project** | Git, GitHub, GitHub Actions, Docker, Bash, YAML. | ✅ Live | [🔗 View](https://github.com/WiZzArD07/devops-ci-cd-project) |
 | 10 | **Research Paper** | Semantic Jailbreaks in LLMs & VLMs | ✅ Live | [🔗 View]([https://github.com/itsashish1](https://www.linkedin.com/in/aryan-jaiswal07/overlay/1780419948509/single-media-viewer/?profileId=ACoAAESvLCIBaSebCpbTvB5mnsj4ONO9DXmi7g0)) |
 
