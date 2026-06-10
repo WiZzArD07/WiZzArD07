@@ -176,7 +176,6 @@ My journey combines **technical excellence** with **continuous learning** - from
 | Platform | Link | Status |
 |----------|------|--------|
 | **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/itsashish1/) | ✅ Active |
 | **GitHub** | [github.com/itsashish1](https://github.com/itsashish1) | ✅ Active |
 
 ---
