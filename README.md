@@ -117,12 +117,15 @@ My journey combines **technical excellence** with **continuous learning** - from
 ### 🔗 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/WiZzArD07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=WiZzArD07&theme=algolia&hide_border=true" alt="Profile Repo" />
-  </a>
-  <a href="https://github.com/WiZzArD07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=WiZzArD07&theme=algolia&hide_border=true" alt="Pinned Repo" />
-  </a>
+
+<a href="https://github.com/WiZzArD07/aniverse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=aniverse&theme=algolia&hide_border=true" />
+</a>
+
+<a href="https://github.com/WiZzArD07/AI-Recycling-Waste-Classification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=AI-Recycling-Waste-Classification&theme=algolia&hide_border=true" />
+</a>
+
 </div>
 
 ---
