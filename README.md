@@ -109,7 +109,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 | 7 | **Dashboard** | Next.js, Recharts, Express.js, PostgreSQL, Prisma | 🚧 Building  | [🔗 View](https://github.com/WiZzArD07/dashboard) |
 | 8 | **Intelligent Image Processing** | Python, Flask, NumPy, Matplotlib, REST API | ✅ Live | [🔗 View](https://github.com/WiZzArD07/Intelligent-Image-Processing) |
 | 9 | **Devops ci cd project** | Git, GitHub, GitHub Actions, Docker, Bash, YAML. | ✅ Live | [🔗 View](https://github.com/WiZzArD07/devops-ci-cd-project) |
-| 10 | **Research Paper** | Semantic Jailbreaks in LLMs & VLMs | ✅ Live | [🔗 View]((https://www.linkedin.com/in/aryan-jaiswal07/overlay/1780419948509/single-media-viewer/?profileId=ACoAAESvLCIBaSebCpbTvB5mnsj4ONO9DXmi7g0)) |
+| 10 | **Research Paper** | Semantic Jailbreaks in LLMs & VLMs | ✅ Live | [🔗 View](https://www.linkedin.com/in/aryan-jaiswal07/overlay/1780419948509/single-media-viewer/?profileId=ACoAAESvLCIBaSebCpbTvB5mnsj4ONO9DXmi7g0) |
 
 
 
