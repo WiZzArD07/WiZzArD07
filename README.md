@@ -117,56 +117,27 @@ My journey combines **technical excellence** with **continuous learning** - from
 ### 🔗 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/itsashish1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Profile Repo" />
+  <a href="https://github.com/WiZzArD07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=WiZzArD07&theme=algolia&hide_border=true" alt="Profile Repo" />
   </a>
-  <a href="https://github.com/itsashish1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Pinned Repo" />
+  <a href="https://github.com/WiZzArD07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=WiZzArD07&theme=algolia&hide_border=true" alt="Pinned Repo" />
   </a>
 </div>
-
----
-## 🏆 LeetCode Profile
-
-<div align="center">
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
-  <br/><br/>
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
-</div>
-
-### 📈 Problem Solving Journey
-
-| Metric | Value |
-|--------|-------|
-| **Total Solved** | 75+ Problems |
-| **Easy** | 21+ Solved |
-| **Medium** | 43+ Solved |
-| **Hard** | 11+ Solved |
-| **Languages** | C++, Java, Python |
-| **Active Days** | 45+ days past year |
-| **Focus Areas** | DSA, System Design, OOP |
-
-[🔗 Visit my LeetCode Profile](https://leetcode.com/u/itsashish1/)
 
 ---
 
 ## 💼 Experience & Education
 
 ### 📚 Education
-- **B.Tech in Computer Science & Engineering**
-  - K.R. Mangalam University, Gurugram, India
-  - Specialization: Full Stack Development & DSA
+- **B.Tech in Computer Science & Engineering (AI & ML)**
+  - Babu Banarasi Das Institute Of Technology and Management, Lucknow, India
+  - Specialization: Machine Learning, Backend Development & Learning Devops
 
-### 🏢 Industrial Training
-- **Industrial Automation Internship**
-  - Developed C-based simulation utilities for industrial sensor data logging
-  - Gained hands-on experience with communication protocols & system design
-  - Received certification for successful program completion
-
-### 🎯 Certifications
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Industrial Automation & Control Systems
+### 🎯 Achievements
+- #1 in Code Aakar Competition
+- #2 in GDG Hackathon
+- Finalist of Kshitij IIT Kharagpur Hackathon
 
 ---
 ## 🎯 Currently Focused On
@@ -187,17 +158,12 @@ My journey combines **technical excellence** with **continuous learning** - from
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/gtc-ashish/" target="_blank">
+        <a href="www.linkedin.com/in/aryan-jaiswal07" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/u/itsashish1/" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/itsashish1" target="_blank">
+        <a href="https://github.com/WiZzArD07" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
