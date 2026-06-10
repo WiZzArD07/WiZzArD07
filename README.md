@@ -104,7 +104,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 | 1 | **URL Shortner** | Node.js, Express, Redis, MySQL, Docker | ✅ Live | [🔗 View](https://github.com/WiZzArD07/url_shortner) |
 | 2 | **AI-Based Recycling Waste Classification System** | Python, TensorFlow, NumPy, Pandas | ✅ Live | [🔗 View](https://github.com/WiZzArD07/AI-Recycling-Waste-Classification) |
 | 3 | **Aniverse** | Node.js, Express.js, Postgres, REST APIs, TypeScript | 🚧 Building | [🔗 View](https://github.com/WiZzArD07/aniverse) |
-| 4 | **DSA Ppractice** | Java, Python | ✅ Active | [🔗 LeetCode](https://github.com/WiZzArD07/Java-Prac) |
+| 4 | **DSA Ppractice** | Java, Python | ✅ Active | [🔗 View](https://github.com/WiZzArD07/Java-Prac) |
 | 6 | **F1** | Machine Learning, Python, Numpy, Matplotlib | ✅ Live | [🔗 View](https://github.com/WiZzArD07/F1) |
 | 7 | **Dashboard** | Next.js, Recharts, Express.js, PostgreSQL, Prisma | 🚧 Building  | [🔗 View](https://github.com/WiZzArD07/dashboard) |
 | 8 | **Intelligent Image Processing** | Python, Flask, NumPy, Matplotlib, REST API | ✅ Live | [🔗 View](https://github.com/WiZzArD07/Intelligent-Image-Processing) |
