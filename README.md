@@ -119,7 +119,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 <div align="center">
 
 <a href="https://github.com/WiZzArD07/dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=aniverse&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WiZzArD07&repo=dashboard&theme=algolia&hide_border=true" />
 </a>
 
 <a href="https://github.com/WiZzArD07/AI-Recycling-Waste-Classification">
